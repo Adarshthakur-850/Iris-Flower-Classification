@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Iris Flower Classification
 
 ## Overview
@@ -16,3 +17,7 @@ A clean, production-quality ML system to classify iris flowers into Setosa, Vers
 # Iris-Flower-Classification
 ml project
 >>>>>>> c768bfebdb6c2174cc0a38fd3d8848f4d232b450
+=======
+# Iris-Flower-Classification
+ml project
+>>>>>>> e9fa800c843284fe78ce590ace384c752251ac57
